@@ -1,0 +1,50 @@
+[
+    {
+        "id": "000000011",
+        "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
+        "chef_name": "Saif Hasan",
+        "years_of_experience": 6,
+        "number_of_recipes": 10,
+        "likes": 2000
+    },
+    {
+        "id": "000000022",
+        "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+        "chef_name": "mohammad-ali",
+        "years_of_experience": 12,
+        "number_of_recipes": 50,
+        "likes": 5000
+    },
+    {
+        "id": "000000033",
+        "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
+        "chef_name": "Saif Hasan",
+        "years_of_experience": 5,
+        "number_of_recipes": 20,
+        "likes": 1500
+    },
+    {
+        "id": "000000044",
+        "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+        "chef_name": "mohammad-ali",
+        "years_of_experience": 10,
+        "number_of_recipes": 40,
+        "likes": 3000
+    },
+    {
+        "id": "000000055",
+        "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
+        "chef_name": "Saif Hasan",
+        "years_of_experience": 15,
+        "number_of_recipes": 60,
+        "likes": 7000
+    },
+    {
+        "id": "000000066",
+        "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+        "chef_name": "mohammad-ali",
+        "years_of_experience": 3,
+        "number_of_recipes": 15,
+        "likes": 1000
+    }
+]
