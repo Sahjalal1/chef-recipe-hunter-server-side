@@ -3,6 +3,7 @@
         "id": "000000011",
         "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
         "chef_name": "Saif Hasan",
+        "bio": "jriojifhsjafhkjdshfkjsdhfkjhsdfjhdshfsdhfkjshdfhsdfds",
         "years_of_experience": 6,
         "number_of_recipes": 10,
         "likes": 2000
@@ -11,38 +12,43 @@
         "id": "000000022",
         "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
         "chef_name": "mohammad-ali",
+        "bio": "jriojifhsjafhkjdshfkjsdhfkjhsdfjhdshfsdhfkjshdfhsdfds",
         "years_of_experience": 12,
         "number_of_recipes": 50,
         "likes": 5000
     },
     {
         "id": "000000033",
-        "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
-        "chef_name": "Saif Hasan",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-501.jpg?size=626&ext=jpg&ga=GA1.2.2019634279.1674132989&semt=ais",
+        "chef_name": "Rahim",
+        "bio": "jriojifhsjafhkjdshfkjsdhfkjhsdfjhdshfsdhfkjshdfhsdfds",
         "years_of_experience": 5,
         "number_of_recipes": 20,
         "likes": 1500
     },
     {
         "id": "000000044",
-        "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+        "chef_picture": "https://img.freepik.com/premium-photo/male-cook-white-uniform-hat-putting-herbs-food-plate-with-vegetable_106485-4897.jpg?size=626&ext=jpg&ga=GA1.2.2019634279.1674132989&semt=ais",
         "chef_name": "mohammad-ali",
+        "bio": "jriojifhsjafhkjdshfkjsdhfkjhsdfjhdshfsdhfkjshdfhsdfds",
         "years_of_experience": 10,
         "number_of_recipes": 40,
         "likes": 3000
     },
     {
         "id": "000000055",
-        "chef_picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
-        "chef_name": "Saif Hasan",
+        "chef_picture": "https://img.freepik.com/free-vector/chef-working-kitchen_1308-39426.jpg?size=626&ext=jpg&ga=GA1.1.2019634279.1674132989&semt=ais",
+        "chef_name": "Muntaha",
+        "bio": "jriojifhsjafhkjdshfkjsdhfkjhsdfjhdshfsdhfkjshdfhsdfds",
         "years_of_experience": 15,
         "number_of_recipes": 60,
         "likes": 7000
     },
     {
         "id": "000000066",
-        "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+        "chef_picture": "https://img.freepik.com/premium-photo/chef-juggling-with-peppers_723181-135.jpg?size=626&ext=jpg&ga=GA1.2.2019634279.1674132989&semt=ais",
         "chef_name": "mohammad-ali",
+        "bio": "jriojifhsjafhkjdshfkjsdhfkjhsdfjhdshfsdhfkjshdfhsdfds",
         "years_of_experience": 3,
         "number_of_recipes": 15,
         "likes": 1000
